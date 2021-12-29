@@ -1,15 +1,15 @@
 package recrypt
 
 import (
-	"br.dev.profbrunolopes.go-recrypt/curve"
-	"br.dev.profbrunolopes.go-recrypt/math"
-	"br.dev.profbrunolopes.go-recrypt/utils"
 	"bytes"
 	"crypto/ecdsa"
 	"crypto/elliptic"
 	"encoding/gob"
 	"encoding/hex"
 	"fmt"
+	"github.com/profbrunolopes/go-recrypt/curve"
+	"github.com/profbrunolopes/go-recrypt/math"
+	"github.com/profbrunolopes/go-recrypt/utils"
 	"math/big"
 )
 

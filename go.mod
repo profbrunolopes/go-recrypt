@@ -1,4 +1,4 @@
-module br.dev.profbrunolopes.go-recrypt
+module github.com/profbrunolopes/go-recrypt
 
 go 1.17
 

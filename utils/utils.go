@@ -1,11 +1,11 @@
 package utils
 
 import (
-	"br.dev.profbrunolopes.go-recrypt/curve"
 	"bytes"
 	"crypto/ecdsa"
 	"crypto/elliptic"
 	"encoding/hex"
+	"github.com/profbrunolopes/go-recrypt/curve"
 	"golang.org/x/crypto/sha3"
 	"math/big"
 )
